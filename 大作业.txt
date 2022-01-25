@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/123.css">
+    <title>大作业</title>
+</head>
+<body>
+    <h1>大作业</h1>
+    <div class="container">
+        <img width="500vw" src="img/1.jpg" alt="not find">
+        <div style="margin-top: 100px;"></div>
+        <img width="500vw" src="img/2.jpg" alt="not find">
+    </div>
+    <a href="https://www.zhihu.com/question/426053091/answer/1993346548">学长经验</a>
+    <br>
+    <a href="https://www.luogu.com.cn/">题库网址</a>
+    <br>
+    <a href="https://share.weiyun.com/cpzYHAKA">ACM</a>
+    <br>
+    <a href="https://share.weiyun.com/NLuLMQoi">离散数学</a>
+    <br>
+    <a href="https://share.weiyun.com/5HCZvMXo">自动控制原理</a>
+    <div style="margin-top: 50px;"></div>
+    <hr>
+    <p>我对计算机专业的认识：计算机专业的目的在培养具有良好科学素养, 能较系统和深入地掌握计算机科学技术基础以及软件工程专业知识和工作技能的高级专业技术人才。计算机应用在方方面面，计算机专业包括计算机科学与技术、软件工程、人工智能、物联网等多个方面，在各个行业都改善着生产条件，本科教育也正是为这些行业输送杰出人才，通过在计算机专业的四年学习，可以提高自己的算法思维和算法能力，更好的通过计算机协助人来解决问题，提高生产效率。计算机专业教学体系中，侧重提高学生对高级语言、汇编语言得深入浅出得理解，使其在解决实际问题中，能够优化模型，改善机器操作条件。计算机专业内容比较广泛，既要包括计算机专业基础课，也要包括计算机的专业课。除了高等数学，离散数学，程设基础，数控原理等课程，我们学校还特色的设有了数电模电等课程，打下了深厚的数理基础和专业课基础，对工作或深造后深入学习十分有利。
+    <div style="margin-top: 50px;"></div>
+    <hr>
+    <p>我的学业规划：
+在完成本科生毕业得要求前提下，尽可能得多去参加比赛，多去学习课程外的知识，正如最近的数学建模比赛，可以学习如果建模，如果优化已经建好的模型，如何应用latex来编写编排论文内容格式，学习到的这些知识，反过来也可以作用于课内学习课程，如可以用latex排版毕业论文等。在四年的学习过程中，最主要的是提高计算机能力和外语能力，不管以后出国深造还是去其他高校深造，做科研等等，都要求着有着较为扎实的计算机和外语能力。提前在本科阶段与老师交流，尝试加入老师的课题组，跟着老师做他们的课题，从中巩固书本上学习的理论知识，以及了解如何应用这些理论知识。此外，还可以提高自己的交流表达能力，不论在什么环境中，与人交流，合作共同奋斗才更有可能做出成绩，多参加一下有意义的比赛社团，ACM，数模等比赛，提高自己的逻辑思维能力。
+</body>
+</html>
